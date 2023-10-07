@@ -1,0 +1,3 @@
+C:/Users/vvlad/CLionProjects/ECS_Lab_1/cmake-build-debug/CMakeFiles/ECS_Lab_1.dir
+C:/Users/vvlad/CLionProjects/ECS_Lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vvlad/CLionProjects/ECS_Lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
